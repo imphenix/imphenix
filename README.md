@@ -3,9 +3,9 @@
 I am a technical researcher and developer passionate about leveraging **Generative AI** and **Machine Learning** to solve real-world environmental and agricultural challenges. My work focuses on building scalable, data-driven solutions that bridge the gap between complex engineering and practical utility.
 
 ### 🛠️ Technical Toolkit
-* **Languages:** Python, C++, Scilab, SQL
-* **AI/ML:** LLMs, Computer Vision (NDVI Analysis), Unsupervised Clustering
-* **Tools:** SOLIDWORKS, Tally ERP, Geospatial Pipelines
+* **Languages:** Python, C++,C, Scilab, SQL
+* **AI/ML:** LLMs, Computer Vision (NDVI Analysis), 
+* **Tools:** SOLIDWORKS, Tally ERP, 
 * **Core Interests:** Robotics, Ecological Monitoring, Renewable Systems
 
 ### 🌟 Featured Projects
